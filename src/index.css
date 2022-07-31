@@ -1,0 +1,25 @@
+/*body {
+
+   --primary:146,37,218;
+  --color:44,62,80;
+  display:flex;
+  align-items: center;
+  justify-content: flex-start;
+  height:100vh;
+  background:#F1F3F6;
+  height:calc(var(--vh,1vh)*100);
+  overflow:hidden;
+  color: rgb(var(--color));
+}
+.container{
+  left: 50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  background: #F1F3F6;
+  
+  position: relative;
+  border: solid 1px black;
+}
+ */
